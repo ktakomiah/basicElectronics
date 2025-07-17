@@ -1,7 +1,7 @@
 void setup() {
   // put your setup code here, to run once:
-const int potPin = 21; // Potentiometer connected to GPIO5
-const int ledPin = 19;  // LED connected to GPIO2 (D2)
+const int potPin = 21; // Potentiometer connected to GPIO
+const int ledPin = 19;  // LED connected to GPIO (D2)
 
 void setup() {
   pinMode(ledPin, OUTPUT);
